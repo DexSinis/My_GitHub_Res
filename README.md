@@ -1,4 +1,4 @@
-# My_GitHub_Res([github地址](https://github.com/SilenceL/My_GitHub_Res))
+# 控件整理([github地址](https://github.com/DexSinis/My_GitHub_Res))
 我在github关注的项目(The projects resource in my stars)。github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 > 收集真不容易，喜欢请给个star
 
