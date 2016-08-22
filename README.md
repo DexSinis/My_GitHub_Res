@@ -132,7 +132,7 @@
 
 
 #### *内存/调试分析层* <a name="内存/调试分析"></a>
-* [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) 非常漂亮的loading动画集合
+* [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) 精准 iOS 内存泄露检测工具
  
 #### *框架* <a name="OC框架"></a>
 
