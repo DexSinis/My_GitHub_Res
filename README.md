@@ -227,6 +227,7 @@
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) 简单易用，并且可定制化UISegmentedControl & UISwitch的功能 An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 * [SCLAlertView](https://github.com/dogo/SCLAlertView) 一款漂亮的alert弹窗
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) 一款不错的日历库
+* [JTCalendarhttps](https://github.com/jonathantribouharet/JTCalendar) 常用的日历库
 * [Eureka](https://github.com/xmartlabs/Eureka) 优雅的创建form表单 快4000star了
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) 滑动的TabPageViewController。 Paging view controller and scroll tab view
 * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) 翻拍效果，做的真好！！！！！！！！
